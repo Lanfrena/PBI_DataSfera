@@ -1,6 +1,7 @@
 ### Аналитика продаж
-![3](Датасфера.png)
+[Открыть интерактивный отчет Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDZkNjlhODUtM2VjMi00YWQ5LWJhYTktZTQyMjQwODBmYzUyIiwidCI6ImFmZDZiMTk4LTMxZjEtNDM1OC1iYjA0LWIxODE5NWViOWQwMiIsImMiOjEwfQ%3D%3D)
 
+![3](Датасфера.png)
 
 1. Цель проекта
    - Разработка и визуализация ключевых бизнес-метрик коммерческой деятельности компании для оперативного контроля продаж, оценки маржинальности и выявления неэффективных зон (убыточных заказов и категорий товара).
